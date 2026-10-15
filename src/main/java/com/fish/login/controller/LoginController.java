@@ -15,7 +15,7 @@ public class LoginController {
         if(u.equals("kevin") && p.equals("123456")){
             return "登陆成功";
         }else {
-            return "用户名或者密码错误";
+            return "用户名或者密码错误222222222223232323";
         }
        // return "欢迎"+ u+","+"密码是"+p;
 
